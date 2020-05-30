@@ -1,4 +1,4 @@
-package com.devcolibri.androidandmysql;
+package com.example.androidandmysql;
 
 import java.util.ArrayList;
 import java.util.List;

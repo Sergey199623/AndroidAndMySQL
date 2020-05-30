@@ -1,4 +1,4 @@
-package com.devcolibri.parser;
+package com.example.parser;
 
 import android.util.Log;
 import org.apache.http.HttpEntity;

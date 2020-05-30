@@ -1,4 +1,4 @@
-package com.devcolibri.androidandmysql;
+package com.example.androidandmysql;
 
 import android.app.Activity;
 import android.app.ProgressDialog;
